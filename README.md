@@ -168,3 +168,8 @@ return 0;
 ```
 
 Output:
+
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/e7d92374-5997-407d-90f6-a5d2fc542543" />
+
+Result
+ The program executed sucessfully.
